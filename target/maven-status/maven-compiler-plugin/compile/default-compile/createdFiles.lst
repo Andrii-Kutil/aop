@@ -1,9 +1,0 @@
-com\gmail\kutilandrej\Main.class
-com\gmail\kutilandrej\model\UniversityLibrary.class
-com\gmail\kutilandrej\advice\ExceptionAdvice.class
-com\gmail\kutilandrej\advice\OrderAdvice.class
-com\gmail\kutilandrej\model\Library.class
-com\gmail\kutilandrej\advice\MyPointcuts.class
-com\gmail\kutilandrej\advice\SampleAdvice.class
-com\gmail\kutilandrej\model\SchoolLibrary.class
-com\gmail\kutilandrej\config\MyConfig.class
